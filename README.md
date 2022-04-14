@@ -3,7 +3,7 @@
 - Periods : 2022/04 ~ 2023/12
 - Meeting : second, last week of each month
 
-## ❗️❗️Study Rule❗️❗️
+## Study Rule
 **❈ Presentation Policy**
 1. All members must have a presentation at least once a month.
 2. Presentation Topic is free.
