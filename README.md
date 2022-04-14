@@ -15,18 +15,18 @@
 
 ## Repository Rule
 **❈ Pull Request and Commit Message Policy**
-Pull Request 
+Pull Request  
 - TBD
 
-Commit Message
--TBD
+Commit Message 
+- TBD
 
 **❈ File and Folder structure Policy**
-Meeting
--TBD
+Meeting 
+- TBD
 
-Question
--TBD
+Question 
+- TBD
 
 ## Schdule
 | **Date**  | **FolderName** | **Topic1**  | **Topic2**  | **Topic3** | **Topic4** | **Topic5**  | **Question** |
