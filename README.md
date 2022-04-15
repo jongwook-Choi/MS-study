@@ -7,11 +7,11 @@
 **❈ Presentation Policy**
 1. All members must have a presentation at least once a month.
 2. Presentation Topic is free.
-3. The presentation time must exceed a minmum of five minutes.
+3. Presentation time is limited to a minimum of 5 minutes and a maximum of 20 minutes.
 
 **❈ Late Policy**
-1. If late or absent from the meeting should notice at least a day before the meeting
-2. The penalty is buying coffee for study members
+1. If late or absent from the meeting should notice at least a day before the meeting.
+2. The penalty is buying coffee for study members.
 
 ## Repository Rule
 **❈ Pull Request and Commit Message Policy**
