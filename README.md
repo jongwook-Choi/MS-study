@@ -15,13 +15,17 @@
 
 ## Repository Rule
 **❈ Pull Request and Commit Message Policy**  
+
+
 Pull Request  
 - TBD
 
 Commit Message 
 - TBD
 
-**❈ File and Folder structure Policy**
+**❈ File and Folder structure Policy**  
+
+
 Meeting 
 - TBD
 
