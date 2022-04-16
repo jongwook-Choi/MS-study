@@ -14,7 +14,7 @@
 2. The penalty is buying coffee for study members.
 
 ## Repository Rule
-**❈ Pull Request and Commit Message Policy**
+**❈ Pull Request and Commit Message Policy**  
 Pull Request  
 - TBD
 
