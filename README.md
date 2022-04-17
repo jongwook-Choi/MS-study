@@ -21,21 +21,18 @@ Pull Request
 - TBD
 
 Commit Message 
-- TBD
+- Write only the changed parts briefly
 
 **❈ File and Folder structure Policy**  
 
+- Meeting
+    - week(nn)_(yymmdd)
 
-Meeting 
-- TBD
-
-Question 
-- TBD
 
 ## Schdule
-| **Date**  | **FolderName** | **Topic1**  | **Topic2**  | **Topic3** | **Topic4** | **Topic5**  | **Question** |
-| --------- | -------------- | ----------- | ----------- | -----------| ---------- | ----------- | ------------ |
-| 2022/0416 | TBD            | TBD         | TBD         | TBD        | TBD        | TBD         | TBD          |
+| **Date**  | **PR link** | **jongwook-Choi**  | **Donghyeon Kim**  | **2jjsjjs** | **pjunehyeon** | **ZEET0**  |
+| --------- | ----------- | ------------------ | ------------------ | ----------- | -------------- | ---------- | 
+| 2022/0416 | TBD         | O                  | O                  | X           | X              | x          | 
 
 
 
