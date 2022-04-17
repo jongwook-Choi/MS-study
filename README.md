@@ -4,35 +4,35 @@
 - Meeting : second, last week of each month
 
 ## Study Rule
-**❈ Presentation Policy**
+### **❈ Presentation Policy**
 1. All members must have a presentation at least once a month.
 2. Presentation Topic is free.
 3. Presentation time is limited to a minimum of 5 minutes and a maximum of 20 minutes.
 
-**❈ Late Policy**
+### **❈ Late Policy ❈**
 1. If late or absent from the meeting should notice at least a day before the meeting.
 2. The penalty is buying coffee for study members.
 
 ## Repository Rule
-**❈ Pull Request and Commit Message Policy**  
+### **❈ Commit Message Policy ❈**  
+: write only the changed parts briefly  
 
-
-Pull Request  
-- TBD
-
-Commit Message 
-- Write only the changed parts briefly
-
-**❈ File and Folder structure Policy**  
+### **❈ File and Folder structure Policy ❈**  
 
 - Meeting
     - week(nn)_(yymmdd)
+        - PR
+            - (presentor Name)_(topic)
+                - etc..
+        - QnA
+            - Answer.txt
+            - Question.txt
 
 
 ## Schdule
-| **Date**  | **PR link** | **jongwook-Choi**  | **Donghyeon Kim**  | **2jjsjjs** | **pjunehyeon** | **ZEET0**  |
-| --------- | ----------- | ------------------ | ------------------ | ----------- | -------------- | ---------- | 
-| 2022/0416 | TBD         | O                  | O                  | X           | X              | x          | 
+| **Date**  | **Type** | **jongwook-Choi**  | **Donghyeon Kim**  | **2jjsjjs** | **pjunehyeon** | **ZEET0**  |
+| --------- | -------- | ------------------ | ------------------ | ----------- | -------------- | ---------- | 
+| 2022/0416 | Off      | O                  | O                  | X           | X              | x          | 
 
 
 
@@ -71,9 +71,8 @@ Commit Message
 <details>
   <summary>Details..</summary>
 
-- [ ] Adding addtional Study Rule
-- [ ] PullRequest Rule CommitMessage Rule
-- [ ] File and Folder stucture Rule
 - [ ] Adding Schedule
-
+- [ ] Adding presentation etc..
+- [ ] Adding QnA
+   
 </details>
