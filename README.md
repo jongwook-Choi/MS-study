@@ -30,9 +30,10 @@
 
 
 ## Schdule
-| **Date**  | **Type** | **jongwook-Choi**  | **Donghyeon Kim**  | **2jjsjjs** | **pjunehyeon** | **ZEET0**  |
-| --------- | -------- | ------------------ | ------------------ | ----------- | -------------- | ---------- | 
-| 2022/0416 | Off      | O                  | O                  | X           | X              | x          | 
+| **Date**   | **Type** | **jongwook-Choi**  | **Donghyeon Kim**  | **2jjsjjs** | **pjunehyeon** | **ZEET0**  |
+| :--------: | :------: | :----------------: | :---------------:  | :---------: | :------------: | :--------: | 
+| 2022/04/16 | Off      | O                  | O                  | X           | X              | x          | 
+| 2022/04/30 | ON       | TBD                | TBD                | TBD         | TBD            | TBD        |
 
 
 
@@ -71,7 +72,7 @@
 <details>
   <summary>Details..</summary>
 
-- [ ] Adding Schedule
+- [x] Adding Schedule
 - [ ] Adding presentation etc..
 - [ ] Adding QnA
    
