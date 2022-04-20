@@ -32,7 +32,7 @@
 ## Schdule
 | **Date**   | **Type** | **jongwook-Choi**  | **Donghyeon Kim**  | **2jjsjjs** | **pjunehyeon** | **ZEET0**  |
 | :--------: | :------: | :----------------: | :---------------:  | :---------: | :------------: | :--------: | 
-| 2022/04/16 | Off      | O                  | O                  | X           | X              | x          | 
+| 2022/04/16 | OFF      | O                  | O                  | X           | X              | x          | 
 | 2022/04/30 | ON       | TBD                | TBD                | TBD         | TBD            | TBD        |
 
 
