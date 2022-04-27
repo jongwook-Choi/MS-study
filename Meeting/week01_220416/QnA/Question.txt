@@ -1,5 +1,7 @@
 1. 최종욱 -> 김동현
-: Robust Regression의 LTS 과정 중 T를 선택하는 기준은 무엇인가?
+Q) Robust Regression의 LTS 과정 중 T를 선택하는 기준은 무엇인가? (O)
 
 2. 최종욱 -> 김동현
-: Robust Regression은 이상치의 잔차를 계산하지 않으므로 해당 Task에서는 적합하지 않은 모델이 아닌가?
+Q) Robust Regression은 이상치의 잔차를 계산하지 않으므로 해당 Task에서는 적합하지 않은 모델이 아닌가? (O)
+
+
