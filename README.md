@@ -56,9 +56,9 @@
             <a href="https://github.com/2jjsjjs">2jjsjjs</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/pjunehyeon"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/103628280?v=4"/></a>
+            <a href="https://github.com/junhyeon96"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/103628280?v=4"/></a>
             <br />
-            <a href="https://github.com/pjunehyeon">pjunehyeon</a>
+            <a href="https://github.com/junhyeon96">Junhyeon Park</a>
         </td>
         <td align="center" width="130px">
             <a href="https://github.com/ys090601"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/56064870?v=4"/></a>
@@ -72,7 +72,7 @@
 <details>
   <summary>Details..</summary>
 
-- [x] Adding Schedule
+- [ ] Adding Schedule
 - [ ] Adding presentation etc..
 - [ ] Adding QnA
    
