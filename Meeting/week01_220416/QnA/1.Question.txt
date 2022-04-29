@@ -1,9 +1,20 @@
 1. 최종욱 -> 김동현
 Q) Robust Regression의 LTS 과정 중 T를 선택하는 기준은 무엇인가? (O)
 Q) 해당 연구에서 임의로 설정된 T값 혹은 R 내장 함수에서 설정된 defalut T값이 궁금함. (O)
++) R ltsReg() 함수의 T는 Arguments 중 'alpha' 값으로 설정 가능할것으로 생각됨, default 는 0.5로 별도의 지정이 없다면, 50%의 데이터만 사용해 잔차 계산할듯.
++) 연구 진행에 있어 임의의 T 값에 대한 별도의 언급이 없었다면 ltsReg()의 default 값으로 사용했을 것으로 생각됨.
+alpha: the percentage (roughly) of squared residuals whose sum will be minimized, by default 0.5. In general, alpha must between 0.5 and 1. 
+(참고: https://www.rdocumentation.org/packages/robustbase/versions/0.95-0/topics/ltsReg )
+< close >
 
 2. 최종욱 -> 김동현
 Q) Robust Regression은 이상치의 잔차를 계산하지 않으므로 해당 Task에서는 적합하지 않은 모델이 아닌가? (O)
 Q) 의미있는 특이값의 존재가 절대값의 합이 최소가 되는 방법 채택 불가로 이어지는 이유가 궁금함. (O)
 Q) LTS 방식은 결국 의미가 없는 특이값을 제외하고 최소제곱법을 하는 방식으로, outlier를 제거하는 방식과 근본적으로 차이가 없어 보이는데, LTS 기법을 통해 outlier에 의미를 부여하여 분석했다는 것이 올바른 해석인지 궁금함. (O)
++) outlier 를 제거했을 때 회귀모델의 예측결과와, LTS 기법을 활용한 예측결과를 비교했을 때 결과의 차이를 야기한 이유는 모델 적합에 사용한 데이터 비율차이로 생각됨
++) 즉, 잔차가 큰 순서대로 50% 제거한 후 least squares 방식을 적용하면 R ltsReg() 함수를 alpha를 default로 사용한 것과 동일한 결과를 보일것으로 판단됨
++) 위와 같은 이유로 여전히 outlier에 의미를 부여했다는 해석에 의문점이 남음
++) '모델이 데이터를 잘 설명한다' = '모델의 성능이 좋다' 는 머신러닝 혹은 딥러닝 관점이라 통계적 분석에서는 주의해야된다 생각함
++) 물론 성능은 매우 중요하지만, outlier에 의미를 부여한다라는 관점의 해석을 위해선 성능이 낮더라도 모든 데이터를 사용하며 절대값이 최소가 되는 Robust Regression을 사용하는것이 바람직해 보임
+< close >
 
