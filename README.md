@@ -3,6 +3,7 @@
 - Periods : 2022/04 ~ 2023/12
 - Meeting : second, last week of each month
 
+- on_line study record link : https://konkukackr-my.sharepoint.com/:f:/g/personal/jhparke100_konkuk_ac_kr/EveasfsEHqtCu-JDPWmYgcYBdWJqaeaAigfO5TYHOFTmNQ?e=cxFd8N
 ## Study Rule
 ### **❈ Presentation Policy**
 1. All members must have a presentation at least once a month.
