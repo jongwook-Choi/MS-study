@@ -34,8 +34,8 @@
 | **Date**   | **Type** | **jongwook-Choi**  | **Donghyeon Kim**  | **2jjsjjs** | **Junhyeon Park** | **ZEET0**  |
 | :--------: | :------: | :----------------: | :---------------:  | :---------: | :---------------: | :--------: | 
 | 2022/04/16 | OFF      | O                  | O                  | X           | X                 | X          | 
-| 2022/04/30 | ON       | △                 | △                 | X           | O                 | O           |
-| 2022/05/13 | OFF      | TBD                | TBD                | TBD         | TBD               | TBD        |
+| 2022/04/30 | ON       | X                  | △                 | X           | O                 | O          |
+| 2022/05/13 | OFF      | △                 | O                  | O           | O                 | X          |
 | 2022/05/28 | OFF      | TBD                | TBD                | TBD         | TBD               | TBD        |
 
 
@@ -74,7 +74,7 @@
 <details>
   <summary>Details..</summary>
 
-- [ ] Adding Schedule
+- [x] Adding Schedule
 - [ ] Adding presentation etc..
 - [ ] Adding QnA
    
