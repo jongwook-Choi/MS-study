@@ -1,18 +1,19 @@
 # MS-study
 > This repository is used for MS-study members, to share what we study
 - Periods : 2022/04 ~ 2023/12
-- Meeting : second, last week of each month
+- Meeting : second, fourth week of each month
 
 - on_line study record : [link](https://konkukackr-my.sharepoint.com/:f:/g/personal/jhparke100_konkuk_ac_kr/EveasfsEHqtCu-JDPWmYgcYBdWJqaeaAigfO5TYHOFTmNQ?e=cxFd8N)
 ## Study Rule
 ### **❈ Presentation Policy**
-1. All members must have a presentation at least once a month.
+1. All members must have a presentation at the fourth weekly meeting.
 2. Presentation Topic is free.
 3. Presentation time is limited to a minimum of 5 minutes and a maximum of 20 minutes.
 
 ### **❈ Late Policy ❈**
-1. If late or absent from the meeting should notice at least a day before the meeting.
-2. The penalty is buying coffee for study members.
+1. In principle, the fourth weekly meeting must be attended.
+2. If late or absent from the meeting should notice at least a day before the meeting.
+3. The penalty is buying coffee for study members.
 
 ## Repository Rule
 ### **❈ Commit Message Policy ❈**  
