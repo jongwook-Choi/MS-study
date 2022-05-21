@@ -76,7 +76,7 @@
   <summary>Details..</summary>
 
 - [x] Adding Schedule
-- [ ] Adding presentation etc..
-- [ ] Adding QnA
+- [x] Adding presentation etc..
+- [x] Adding QnA
    
 </details>
