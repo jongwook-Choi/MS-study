@@ -1,6 +1,6 @@
 # MS-study
 > This repository is used for MS-study members, to share what we study
-- Periods : 2022/04 ~ 2023/12
+- Periods : 2022/04 ~ 2022/08
 - Meeting : second, fourth week of each month
 
 - on_line study record : [link](https://konkukackr-my.sharepoint.com/:f:/g/personal/jhparke100_konkuk_ac_kr/EveasfsEHqtCu-JDPWmYgcYBdWJqaeaAigfO5TYHOFTmNQ?e=cxFd8N)
