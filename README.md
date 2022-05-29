@@ -37,7 +37,7 @@
 | 2022/04/16 | OFF      | O                  | O                  | X           | X                 | X          | 
 | 2022/04/30 | ON       | X                  | △                 | X           | O                 | O          |
 | 2022/05/13 | OFF      | O                  | O                  | O           | O                 | X          |
-| 2022/05/28 | OFF      | O                  | X                  | O           | X                 |
+| 2022/05/28 | OFF      | O                  | X                  | O           |                  |
 
 
 ## Current Study members
