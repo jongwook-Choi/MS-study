@@ -23,10 +23,10 @@
 
 - Meeting
     - week(nn)_(yymmdd)
-        - PR
+        - 1.PR
             - (presentor Name)_(topic)
                 - etc..
-        - QnA
+        - 2.Discussion
             - 1.Question.txt
             - 2.Answer.txt
 
