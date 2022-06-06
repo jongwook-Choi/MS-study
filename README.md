@@ -38,6 +38,8 @@
 | 2022/04/30 | ON       | X                  | △                 | X           | O                 | O          |
 | 2022/05/13 | OFF      | O                  | O                  | O           | O                 | X          |
 | 2022/05/28 | OFF      | O                  | X                  | O           | O                 |
+| 2022/06/11 | ON       | TBD                | TBD                | TBD         | TBD               |
+| 2022/05/28 | OFF      | TBD                | TBD                | TBD         | TBD               |
 
 
 ## Current Study members
@@ -72,7 +74,7 @@
         <td align="center" width="130px">
             <a href="https://github.com/ys090601"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/56064870?v=4"/></a>
             <br />
-            <a href="https://github.com/ys090601">ZEET0</a>
+            <a href="https://github.com/ys090601">ZEET0 (220416~220513)</a>
         </td>
       </tr>
 </table>
