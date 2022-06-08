@@ -2,8 +2,9 @@
 > This repository is used for MS-study members, to share what we study
 - Periods : 2022/04 ~ 2022/08
 - Meeting : second, fourth week of each month
+- Online study record : [link](https://konkukackr-my.sharepoint.com/:f:/g/personal/jhparke100_konkuk_ac_kr/EveasfsEHqtCu-JDPWmYgcYBdWJqaeaAigfO5TYHOFTmNQ?e=cxFd8N)
+- We are planning to run our meeting on a seasonal basis
 
-- on_line study record : [link](https://konkukackr-my.sharepoint.com/:f:/g/personal/jhparke100_konkuk_ac_kr/EveasfsEHqtCu-JDPWmYgcYBdWJqaeaAigfO5TYHOFTmNQ?e=cxFd8N)
 ## Study Rule
 ### **❈ Presentation Policy**
 1. All members must have a presentation at the fourth weekly meeting.
