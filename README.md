@@ -1,18 +1,17 @@
 # MS-study
 > This repository is used for MS-study members, to share what we study
-- Periods : 2022/04 ~ 2022/08
-- Meeting : second, fourth week of each month
+- Periods : 2022/09 ~ 2023/02(Seasonal Operation)
+- Meeting : fourth week of each month
 - Online study record : [link](https://konkukackr-my.sharepoint.com/:f:/g/personal/jhparke100_konkuk_ac_kr/EveasfsEHqtCu-JDPWmYgcYBdWJqaeaAigfO5TYHOFTmNQ?e=cxFd8N)
-- We are planning to run our meeting on a seasonal basis
 
 ## Study Rule
 ### **❈ Presentation Policy**
-1. All members must have a presentation at the fourth weekly meeting.
+1. All members must have a presentation at the meeting.
 2. Presentation Topic is free.
 3. Presentation time is limited to a minimum of 5 minutes and a maximum of 20 minutes.
 
 ### **❈ Late Policy**
-1. In principle, the fourth weekly meeting must be attended.
+1. In principle, every meeting must be attended.
 2. If late or absent from the meeting should notice at least a day before the meeting.
 3. The penalty is buying coffee for study members.
 
@@ -45,7 +44,10 @@
 | 2022/07/23 | OFF      | O                  | O                  | O           | O                 |
 | 2022/08/13 | ON       | X                  | O                  | X           | X                 |
 | 2022/08/28 | OFF      | O                  | O                  | O           | O                 |
-| 2022/09/24 | OFF      | O                  | O                  | X           | X                 |
+| 2022/09/24 | OFF      | O                  | O                  | O           | O                 |
+| 2022/10/29 | OFF      | X                  | O                  | O           | O                 |
+| 2022/11/26 | OFF      | O                  | O                  | X           | O                 |
+| 2023/01/14 | OFF      | O                  | O                  | O           | O                 |
 
 
 ## Current Study members
