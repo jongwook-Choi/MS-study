@@ -23,12 +23,8 @@
 
 - Meeting
     - week(nn)_(yymmdd)
-        - 1.PR
-            - (presentor Name)_(topic)
-                - etc..
-        - 2.Discussion
-            - 1.Question.txt
-            - 2.Answer.txt
+        - (topic)
+            - etc..
 
 
 ## Schdule
