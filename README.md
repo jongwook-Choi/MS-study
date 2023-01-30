@@ -44,6 +44,7 @@
 | 2022/10/29 | OFF      | X                  | O                  | O           | O                 |
 | 2022/11/26 | OFF      | O                  | O                  | X           | O                 |
 | 2023/01/14 | OFF      | O                  | O                  | O           | O                 |
+| 2023/01/29 | OFF      | X                  | O                  | X           | O                 |
 
 
 ## Current Study members
